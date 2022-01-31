@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://aacfjw22sapbzgchcmxkpqmz6n6jy888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18S_Pro/9.2.1.2/cn/20211215010848/2b712bd9/update.zip?f_ver=v1&max_age=7776000&r=ABsDNCdeH18nIkZfFSwcFUYCEi0uER4TLiYbdAs%2FAwcJHRJrEghJHSRkWVcLNxtBUDwoFCYLH0lveRoDTH9BEwZARXRmVQFCcH4EA1J1WkhHXRVzZVZSFHhkQUIGLBoVRhUeNAcfEio3AF5BLjtRXAEpAEE%3D&ppiouid=61f7931df009220001acd471733f7a5c
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
